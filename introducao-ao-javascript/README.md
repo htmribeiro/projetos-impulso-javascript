@@ -4,7 +4,7 @@ projetos-impulso-javascript referentes ao curso de *"Introdução ao JavaScript"
 
 Realizado por: [Digital Innovation One](https://digitalinnovation.one/)
 
-Instrutor: [Stephany Nusch](https://github.com/stebsnusch)
+Instrutor: [Stephany Nusch](https://github.com/stebsnusch/basecamp-javascript)
 
 ## projetos-impulso-javascript
 
